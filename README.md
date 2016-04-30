@@ -1,2 +1,2 @@
 # jss2css
-jss nodejs module
+Simple jss compiler. Convert jss files to css files. 
